@@ -2,7 +2,6 @@
 
 - 👀 **I’m interested in** data storytelling and data science.
 - 🌱 **I’m currently learning** how to be a data scientist.
-- 💞️ **I’m looking to collaborate on** ... (optional, leave blank if not needed)
 - 📫 **Reach me at** [aishwaryamds03@gmail.com](mailto:aishwaryamds03@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aishwarya-m-ds/).
 - 😄 **Pronouns:** she/her
 - 💡 **LeetCode**: [AishwaryaM321](https://leetcode.com/u/AishwaryaM321)
