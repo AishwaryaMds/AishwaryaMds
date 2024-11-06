@@ -5,6 +5,7 @@
 - 💞️ **I’m looking to collaborate on** ... (optional, leave blank if not needed)
 - 📫 **Reach me at** [aishwaryamds03@gmail.com](mailto:aishwaryamds03@gmail.com) or [LinkedIn](https://www.linkedin.com/in/aishwarya-m-ds/).
 - 😄 **Pronouns:** she/her
+- 💡 **LeetCode**: [AishwaryaM321](https://leetcode.com/u/AishwaryaM321)
 - ⚡ **Fun fact:** Did you know that data analysts spend about 80% of their time cleaning and preparing data? It’s all about those details! 
 
 
